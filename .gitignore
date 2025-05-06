@@ -37,6 +37,7 @@ pip-delete-this-directory.txt
 matrix1.txt
 matrix2.txt
 result_matrix.txt
+intermediate_results.txt
 
 # Unit test / coverage reports
 htmlcov/
